@@ -1,4 +1,4 @@
-###
+### Ultima Genemics UG100 Pre-Demulti Script
 Usage : Ultima_preDM.py [-h] [Run_Name] [Sample_Info]
 
 
